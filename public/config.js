@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@DOLA_DEX_",
-  "VITE_SEO_THEME_COLOR": "#b12020",
+  "VITE_SEO_THEME_COLOR": "#ce3337",
   "VITE_SEO_KEYWORDS": "dex, crpyto, defi, simple",
   "VITE_AVAILABLE_LANGUAGES": "en,es,fr,it,ko,zh,tc,vi,ja,de,tr,id,pl,uk,pt,ru,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
