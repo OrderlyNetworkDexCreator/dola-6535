@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "DOLA DOLA DOLA DOLA DOLA",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Portfolio,Leaderboard,Points,Rewards,Vaults",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard,Points,Rewards,Vaults",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
