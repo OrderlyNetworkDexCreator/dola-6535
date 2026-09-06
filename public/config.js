@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "https://x.com/DOLA_DEX_",
+  "VITE_TWITTER_URL": "https://x.com/3dola_com",
   "VITE_SEO_SITE_NAME": "DOLA",
   "VITE_SEO_SITE_DESCRIPTION": "DOLA DOLA DOLA DOLA DOLA",
   "VITE_SEO_SITE_URL": "https://3dola.com",
